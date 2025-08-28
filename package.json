@@ -1,0 +1,24 @@
+{
+  "name": "kling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grmangoxx/KlingAIReverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grmangoxx/KlingAIReverse/issues"
+  },
+  "homepage": "https://github.com/grmangoxx/KlingAIReverse#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsdom": "^26.1.0"
+  }
+}
